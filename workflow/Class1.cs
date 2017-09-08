@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace workflow
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            false();
-        }
     }
 }
